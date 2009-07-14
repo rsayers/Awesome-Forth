@@ -1,0 +1,10 @@
+Awesomeforth v.-1.0
+-------------------
+
+A toy interpreter for a stack based langauge bearing some similarity to Forth.
+
+This is my first c++ program ever, so do not expect anything worthwhile in here.
+
+Also, I dont really know forth too well, so I'm probably doing everything wrong.
+
+-rob sayers <rsayers@robsayers.com>
